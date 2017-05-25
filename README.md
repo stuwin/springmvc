@@ -4,32 +4,34 @@
 - [springmvc](/springmvc)
   基本概念和使用方法，涉及概念介绍、环境搭建、编程细节、运行调试
   套笔记整体偏入门和应用，适合快速上手，对底层实现和机理并未做过多分析。
+  
 -----
 ## 目录
-  - [springmvc](/springmvc)
+ - [springmvc](/springmvc)
   
-    - 框架原理和入门配置
-    - 非注解的处理器映射器和适配器
-    - 注解的处理器映射器和适配器
-    - 前端控制器
-    - 入门程序小结
-    - springmvc整合mybatis(IDEA中通过maven构建)
-    - springmvc整合mybatis之mapper
-    - springmvc整合mybatis之service
-    - springmvc整合mybatis之controller
-    - springmvc注解开发之商品修改功能
-    - springmvc注解开发之简单参数绑定
-    - springmvc注解开发之包装类型参数绑定
-    - springmvc注解开发之集合类型参数绑定
-    - springmvc校验
-    - 数据回显
-    - 异常处理器
-    - 上传图片
-    - json数据交互.
-    - RESTful支持
-    - 拦截器
-    - springmvc整合mybatis遇到的问题及解决小结
-    - springmvc开发小结
+ - 框架原理和入门配置
+ - 非注解的处理器映射器和适配器
+ - 注解的处理器映射器和适配器
+ - 前端控制器
+ - 入门程序小结
+ - springmvc整合mybatis(IDEA中通过maven构建)
+ - springmvc整合mybatis之mapper
+ - springmvc整合mybatis之service
+ - springmvc整合mybatis之controller
+ - springmvc注解开发之商品修改功能
+ - springmvc注解开发之简单参数绑定
+ - springmvc注解开发之包装类型参数绑定
+ - springmvc注解开发之集合类型参数绑定
+ - springmvc校验
+ - 数据回显
+ - 异常处理器
+ - 上传图片
+ - json数据交互.
+ - RESTful支持
+ - 拦截器
+ - springmvc整合mybatis遇到的问题及解决小结
+ - springmvc开发小结
+-----
 -----
 环境准备:
 - jdk 1.8+
